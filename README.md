@@ -29,11 +29,15 @@ the script will load when you run the command , then it will start his flow by t
 
 There is an exe version which is 100% self-running but identified due to the approaches to process and os as a malicious tool. I enclose for you both the source code and the EXE file.
 I will also attach the original HASH and VT scans for it.
+
 ![image](https://user-images.githubusercontent.com/89847158/152184645-636c59ef-a575-4e8e-b0a1-b8c139bf1605.png)
 
 ![image](https://user-images.githubusercontent.com/89847158/152184796-36323055-82f9-4dd8-8cde-91d88d9e10ac.png)
 
 ![image](https://user-images.githubusercontent.com/89847158/152189875-805e3c26-ffbf-4639-a3f6-6aad9a6ed1e1.png)
+
+![image](https://user-images.githubusercontent.com/89847158/152192124-deb68a62-9fce-48dd-84dd-d2299128b5e9.png)
+
 
 
 **Compatibility requirements:**
