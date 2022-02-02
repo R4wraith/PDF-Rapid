@@ -9,7 +9,7 @@ This tool is not a PDF parser, but it will scan a file to look for certain PDF k
 **The idea**
 
 This tool is designed for a Cyber security analyst who deals with PDF file investigations and finds himself spending a lot of time in front of CLI.
-Instead of re-running the pdf-id on each file individually, PDF-Rapid will do it independently and quickly. Each submission to PDF-ID is done by a new subprocess which sends the stdout to a new file called Report.txt which will open in the folder where the EXE file is stored.
+Instead of re-running the pdf-id on each file individually, PDF-Rapid will do it independently and quickly. Each submission to PDF-ID is done by a new subprocess which sends the stdout to a new file called Log.txt which will open in the folder where the EXE file is stored.
 
 **How to use**
 
