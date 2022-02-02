@@ -26,7 +26,7 @@ the script will load when you run the command , then it will start his flow by t
 2. when found , the script will then search for any PDF files at the same **CWD**, if not found the script will print an error and ask you to move the files to the CWD and type again when moved.
 3. the script will list all the files found and print it
 4. The script will then open new subprocess for pdf-id and will pass the pdf file by order for analysis.
-5. All outputs will be saved in CWD as one file named report.txt
+5. All outputs will be saved in CWD as one file named log.txt
 
 **VT Scans**
 
