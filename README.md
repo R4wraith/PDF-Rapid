@@ -1,5 +1,8 @@
 # PDF-Rapid ![image](https://user-images.githubusercontent.com/89847158/152180139-ed977a1d-c66c-4242-b4a9-a087eed931af.png)
 
+![image](https://user-images.githubusercontent.com/89847158/152192610-7f2410c1-d7e2-47b5-8024-3943a82a030b.png)
+
+
 PDF-Rapid is a handsfree fully automated python script that can run the **pdf-id** legendery tool on multiple files.
 This tool is not a PDF parser, but it will scan a file to look for certain PDF keywords, allowing you to identify PDF documents that contain (for example) JavaScript or execute an action when opened. PDFiD will also handle name obfuscation.
 
